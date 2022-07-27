@@ -1,3 +1,0 @@
-/home/emil/Desktop/Programs/C++/C-Plus-Sized-Stuff/HelloWorld/CMakeFiles/HelloWorld.dir
-/home/emil/Desktop/Programs/C++/C-Plus-Sized-Stuff/HelloWorld/CMakeFiles/edit_cache.dir
-/home/emil/Desktop/Programs/C++/C-Plus-Sized-Stuff/HelloWorld/CMakeFiles/rebuild_cache.dir
